@@ -1,5 +1,5 @@
-# Go Location State
-A Go Microservice to return a state for latitude and longitude.
+# Go Location City
+A Go Microservice to return the nearest city for latitude and longitude.
 
 #### Usage
 Input must have 2 arguments:
